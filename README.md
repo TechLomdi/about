@@ -1,3 +1,3 @@
 # techlomdi.github.io-about
 About us
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="lomdi" data-description="Support me on Buy me a coffee!" data-message="Be a part of The Lomdi Company 🦊" data-color="#FF5F5F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<a href="https://www.buymeacoffee.com/lomdi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
